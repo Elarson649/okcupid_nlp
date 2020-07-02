@@ -24,7 +24,7 @@ Project Organization
     * cleaning_data.py: Cleans text data- lots of regex, part-of-speech tagging, lemmatization, and tokenization
     * vectorize_data.py: Vectorizes the data into count and TFIDF vectorizers
   * models:
-    * topic_model.py: Performs dimenseionality reduction and displays the top topics. I tried NMF, LSA, and LDA, but went with NMF in the end
+    * topic_model.py: Performs dimensionality reduction and displays the top topics. I tried NMF, LSA, and LDA, but went with NMF in the end
     * unique_terms.py: Finds the scaled f-score as described above and [from the creator of Scattertext](https://github.com/JasonKessler/scattertext#understanding-scaled-f-score)
   * visualization:
     * bar_graph.py: Creates some colorful bar graphs!
